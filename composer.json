@@ -1,0 +1,15 @@
+{
+    "name": "codexen/nepalgeojson",
+    "description": "Nepal province, district, municipalities geojson",
+    "keywords": ["nepal", "geojson", "districts", "province", "municipalities", "nepal geojson", "codexen nepal geojson"],
+    "type": "package",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ruju Bajracharya",
+            "email": "bajra.ruju@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
